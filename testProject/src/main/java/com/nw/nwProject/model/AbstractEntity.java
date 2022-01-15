@@ -1,4 +1,4 @@
-package com.nw.testProject.model;
+package com.nw.nwProject.model;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
