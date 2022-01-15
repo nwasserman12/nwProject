@@ -1,0 +1,1 @@
+let appName = "Nw Project";
